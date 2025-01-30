@@ -3,7 +3,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/VeriumXZY/sev2/refs/h
 loadstring(game:HttpGet("https://raw.githubusercontent.com/VeriumXZY/sev1/refs/heads/main/sev1"))()
 local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Exunys/Aimbot-V2/main/Resources/Scripts/Raw%20Main.lua"))()
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/VeriumXZY/esp/refs/heads/main/espd"), true))()
+print("⭐⭐ESP ISNT WORKING⭐⭐")
 
 -- Create the Window with improved UI design
 local Window = Fluent:CreateWindow({
